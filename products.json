@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Alfajor de Chocolate",
+    "price": 1200,
+    "thumbnail": "https://dummyimage.com/250x150/9966cc/fff",
+    "sellerId": 12345,
+    "sellerName":"jorgito",
+    "availableQuantity": 10
+  },
+  {
+    "name": "Alfajor de Dulce de Leche",
+    "price": 1000,
+    "thumbnail": "https://dummyimage.com/250x150/9966cc/fff",
+    "sellerId": 12345,
+    "sellerName":"jorgito",
+    "availableQuantity": 10
+  },
+  {
+    "name": "Alfajor de Frutos Rojos",
+    "price": 1350,
+    "thumbnail": "https://dummyimage.com/250x150/9966cc/fff",
+    "sellerId": 11111,
+    "sellerName":"cachafaz",
+    "availableQuantity": 10
+  },
+  {
+    "name": "Alfajor de Coco",
+    "price": 950,
+    "thumbnail": "https://dummyimage.com/250x150/9966cc/fff",
+    "sellerId": 55555,
+    "sellerName":"milka",
+    "availableQuantity": 10
+  },
+  {
+    "name": "Alfajor de Naranja",
+    "price": 1100,
+    "thumbnail": "https://dummyimage.com/250x150/9966cc/fff",
+    "sellerId": 11111,
+    "sellerName":"cachafaz",
+    "availableQuantity": 10
+  },
+  {
+    "name": "Alfajor de Café",
+    "price": 1400,
+    "thumbnail": "https://dummyimage.com/250x150/9966cc/fff",
+    "sellerId": 55555,
+    "sellerName":"milka",
+    "availableQuantity": 10
+  },
+  {
+    "name": "Alfajor de Maicena",
+    "price": 900,
+    "thumbnail": "https://dummyimage.com/250x150/9966cc/fff",
+    "sellerId": 12345,
+    "sellerName":"jorgito",
+    "availableQuantity": 10
+  },
+  {
+    "name": "Alfajor de Mousse de Chocolate",
+    "price": 1500,
+    "thumbnail": "https://dummyimage.com/250x150/9966cc/fff",
+    "sellerId": 55555,
+    "sellerName":"milka",
+    "availableQuantity": 10
+  },
+  {
+    "name": "Alfajor de Limón",
+    "price": 1050,
+    "thumbnail": "https://dummyimage.com/250x150/9966cc/fff",
+    "sellerId": 11111,
+    "sellerName":"cachafaz",
+    "availableQuantity": 10
+  },
+  {
+    "name": "Alfajor de Frambuesa",
+    "price": 1250,
+    "thumbnail": "https://dummyimage.com/250x150/9966cc/fff",
+    "sellerId": 11111,
+    "sellerName":"cachafaz",
+    "availableQuantity": 10
+  }
+]
